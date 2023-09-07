@@ -1,0 +1,34 @@
+user: >
+    
+    {
+      "name": "Satya",
+      "job": "Engineer"
+    }
+
+
+Firstuser: >
+    
+    {
+    "firstName":Mr,
+    "lastName":Been,
+    "password": password@123
+    }
+
+students: >
+    
+    {
+      "name": "Atharv",
+      "job": "Engineer"
+    }
+
+patchuser: >
+    {
+        "name": "Abc",
+        "job": "zion "
+    }
+
+postuserdata: >
+    {
+        "name": "Aru",
+        "job": "bag "
+    }
